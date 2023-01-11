@@ -4,3 +4,5 @@
 Usa la función type() para imprimir el tipo de una 
                 variable booleana
 """
+variable=True
+print(type(variable))

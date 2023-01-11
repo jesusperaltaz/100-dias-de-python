@@ -4,3 +4,5 @@
 Declara una variable de tipo cadena que tenga un texto 
                 divertido e imprímela
 """
+mensaje='Programar es muy divertido!!!'
+print(mensaje)

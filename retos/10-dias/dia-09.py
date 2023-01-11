@@ -4,3 +4,5 @@
 Evalúa una expresión para ver si un número es mayor que otro
                 e imprime el resultado
 """
+valor=8>5
+print(valor)

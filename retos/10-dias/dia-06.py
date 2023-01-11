@@ -4,3 +4,7 @@
 Declara 2 variables de tipo cadena, concaténalas 
                 e imprime el resultado
 """
+cadena1='Mi corazon'
+cadena2='es tuyo'
+mensaje=cadena1+' '+cadena2
+print(mensaje)
