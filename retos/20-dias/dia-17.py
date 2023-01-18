@@ -5,3 +5,5 @@ Declara una variable de tipo cadena, encuentra la cantidad
             de veces que aparece la letra 'a' 
         sin usar ciclos e imprime el resultado.
 """
+text='mi mama me mima'
+print(text.count('a'))
