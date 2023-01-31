@@ -5,3 +5,7 @@
 Separa las mayúsculas y minúsculas sin usar ciclos en nuevas cadenas 
             e imprime el resultado en una sola linea
 """
+s = 'PpYyTtHhOoNnIiSsTtAa'
+M = s[::2]
+m = s[1::2]
+print(M,m)
